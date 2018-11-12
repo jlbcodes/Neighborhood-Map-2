@@ -1,45 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FEND Nanodegree Program
+## My Reads React Project
 
-## Available Scripts
+###Built with: HTML, CSS, JavaScript, React and Google Maps API.
 
-In the project directory, you can run:
+This application was created with ReactJS. It is single page application featuring a neighborhood map and a listing of Eateries in Denver, CO. The Google Maps API and React-google-maps was used to generate the map. The Foursquare API is used to get information, name and address, to display when a marker is clicked. A filter feature and info windows make it easy to navigate between the markers.
 
-### `npm start`
+## Requirements
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* node.js
+* create-react-app
+* Google maps API
+* Foursquare API
+* react-google-maps
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## How to Run:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-# Neighborhood-Map-2
+1. First, install node.js if you do not have it yet.
+Make sure that you install node with the PATH variable so you can run node anywhere in your command prompt/terminal.
+2. Next, install the react package using this command in your terminal: `npm install -g create-react-app`.
+3. After installing the react package, you can either clone this repo or download it as a zip.
+4. Navigate into the project folder.
+5. Run `npm run start`.
+6. This will start the app in your default browser at: `localhost:3000`.
