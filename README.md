@@ -1,7 +1,7 @@
 # FEND Nanodegree Program
 ## My Reads React Project
 
-###Built with: HTML, CSS, JavaScript, React and Google Maps API.
+### Built with: HTML, CSS, JavaScript, React and Google Maps API.
 
 This application was created with ReactJS. It is single page application featuring a neighborhood map and a listing of Eateries in Denver, CO. The Google Maps API and React-google-maps was used to generate the map. The Foursquare API is used to get information, name and address, to display when a marker is clicked. A filter feature and info windows make it easy to navigate between the markers.
 
